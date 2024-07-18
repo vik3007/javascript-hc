@@ -1,1 +1,1 @@
-# javascript-hc
+Repository to leran Javascript by Hitesh Chaudhary
